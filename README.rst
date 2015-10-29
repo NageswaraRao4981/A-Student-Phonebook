@@ -6,7 +6,7 @@ James
 
 Details
 -----------------------
-James is a full time student at SPS. Is 29 years and pursuing his bachelor degree and his major is infomation systems.
+James is a full time student at SPS. Is 29 years old and pursuing his bachelor degree with information systems.
 
 Goals
 -----------------------
