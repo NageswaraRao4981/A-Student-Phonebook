@@ -18,7 +18,7 @@ Wants to earn a bachelor's degree to get better job opportunities when he gradua
 Problem Scenario: How to Program Contacts into a Smartphone.
 -----------------------
 James just got his first smartphone, before that he was using his house phone to communicate with classmates, professors, and potential employers. 
-However, putting his contacts into the phone has been diffcult.
+However, putting his contacts into the phone has been diffcult for him.
 
 Current Alternatives
 -----------------------
