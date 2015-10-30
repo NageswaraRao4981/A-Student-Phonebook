@@ -4,8 +4,8 @@ A Student's Phonebook
 As we all know, smartphones have became very important over the years and it's hard to find someone without one. With that being said, learning how to use one can be challenging for first timers.
 A Student's Phonebook is a program that will help you put your contacts into a smartphone.
 
- Name: James
-
+ James
+-----------------------
 
 Details
 -----------------------
