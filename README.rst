@@ -15,6 +15,8 @@ James is a full time student at CUNY SPS. Is 29 years old and pursuing his bache
 Goals
 -----------------------
 To learn how use his Phonebook so when he gradutes he can start looking for a job immediately.
+
+
 Problem Scenario: How to Program Contacts into a Smartphone.
 -----------------------
 James just got his first smartphone, before that he was using his house phone to communicate with classmates, professors, and potential employers. 
