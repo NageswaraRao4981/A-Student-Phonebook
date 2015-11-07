@@ -14,13 +14,13 @@ James is a full time student at CUNY SPS. Is 29 years old and pursuing his bache
 
 Goals
 -----------------------
-To learn how use his Phonebook so when he gradutes he can start looking for a job immediately.
+To learn how use his smartphone  so when graduates James can start looking for a job immediately.
 
 
 Problem Scenario: How to Program Contacts into a Smartphone.
 -----------------------
-James just got his first smartphone, before that he was using his house phone to communicate with classmates, professors, and potential employers. 
-However, putting his contacts into the phone has been diffcult for him.
+James just got his first smartphone, before that he was using his home  phone to communicate with potential employers. 
+However, putting his contacts into the smartphone has been diffcult for him.
 
 Current Alternatives
 -----------------------
@@ -36,6 +36,6 @@ User Stories
 
 James' Phonebook
 ------------
-As a student and future employee. I want to be able to reach people at anytime and also be available for them as well. 
-I also want to be able to search my phone and see all the contacts I put into the phone right away.
+As a future employee, I want to be able to reach people at anytime and also be available for them as well. 
+I also want to be able to search my phone and see all the contacts I put into it right away.
 
