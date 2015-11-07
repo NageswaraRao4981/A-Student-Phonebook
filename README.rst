@@ -10,11 +10,11 @@ James
 
 Details
 -----------------------
-James is a full time student at CUNY SPS. Is 29 years old and pursuing his bachelor degree with information systems.
+James is a full time student at CUNY SPS. Is 29 years old and pursuing his bachelor degree with information systems. He's ready to enter the workforce.
 
 Goals
 -----------------------
-To learn how use his smartphone  so when graduates James can start looking for a job immediately.
+To learn how use his smartphone  so when it's time to graduate James can start looking for a job immediately.
 
 
 Problem Scenario: How to Program Contacts into a Smartphone.
