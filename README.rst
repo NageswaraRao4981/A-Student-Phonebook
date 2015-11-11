@@ -10,7 +10,7 @@ James
 
 Details
 -----------------------
-James is a full time student at CUNY SPS. Is 29 years old and pursuing his bachelor degree with information systems. He's ready to enter the workforce.
+James is a full time student at CUNY SPS. Is 40 years old and pursuing his bachelor degree with information systems. He's ready to enter the workforce.
 
 Goals
 -----------------------
