@@ -41,3 +41,15 @@ I also want to be able to search my phone and see all the contacts I put into it
 
 Acceptance Stories
 -----------------
+Scenario 1: Entering a new contact
+----------------------------------
+
+::
+
+    | Given that I have a new contact
+        | And I need to enter new contact info in my phone book,
+        ...
+    | When I choose Option 2, 
+    | Then I will get a prompt asking me to enter the contact information,
+      | And  I will add first name and the telephone number.
+        ...
