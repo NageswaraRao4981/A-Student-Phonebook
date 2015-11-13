@@ -75,3 +75,14 @@ Scenario 3: Displaying all contacts
 | When I choose Option 1, 
 | Then I will get a prompt displaying all contact information,
 | And I will be able to view all contact info
+
+Scenario 4: Searching for an existing contact
+-------------------------------------------------
+
+::
+
+| Given that I have to search for an existing contact
+| And I need to enter new contact info in my phone book,
+| When I choose Option 4, 
+| Then I will get a prompt asking me to enter the contact first name,
+| And my phone book will retrieve my contact.
