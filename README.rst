@@ -64,3 +64,14 @@ Scenario 2: Remove a Phone Number
 | When I choose Option 3, 
 | Then the contact will be deleted,
 | And I get a statement saying my contact has been deleted.
+
+Scenario 3: Displaying all contacts
+-----------------------------------
+
+::
+
+| Given that I want to view all contacts,
+| And I need to see who is in my phone book,
+| When I choose Option 1, 
+| Then I will get a prompt displaying all contact information,
+| And I will be able to view all contact info
