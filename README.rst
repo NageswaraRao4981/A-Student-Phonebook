@@ -73,12 +73,11 @@ Scenario 3: Displaying all contacts
 
 ::
 
-   | Given that I want to view all contacts,
-          | And I need to see who is in my phone book,
-        ...
-    | When I choose Option 1, 
-     | Then I will get a prompt displaying all contact information,
-	    | And I will be able to view all contact info
-		...
+ Given that I want to view all contacts,
+ And I need to see who is in my phone book,
+ When I choose Option 1, 
+ Then I will get a prompt displaying all contact information
+ And I will be able to view all contact info
+    ...
 		
 		
