@@ -41,15 +41,26 @@ I also want to be able to search my phone and see all the contacts I put into it
 
 Acceptance Stories
 -----------------
+
 Scenario 1: Entering a new contact
 ----------------------------------
 
 ::
 
-    | Given that I have a new contact
-        | And I need to enter new contact info in my phone book,
+| Given that I have a new contact
+| And I need to enter new contact info in my phone book,
+| When I choose Option 2, 
+| Then I will get a prompt asking me to enter the contact information,
+| And  I will add first name and the telephone number.
         ...
-    | When I choose Option 2, 
-    | Then I will get a prompt asking me to enter the contact information,
-      | And  I will add first name and the telephone number.
-        ...
+
+Scenario 2: Remove a Phone Number
+----------------------------------
+
+::
+
+| Given that I don't need this number anymore,
+| And need to remove the contact info from my phone book,
+| When I choose Option 3, 
+| Then the contact will be deleted,
+| And I get a statement saying my contact has been deleted.
