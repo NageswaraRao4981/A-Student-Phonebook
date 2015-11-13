@@ -47,13 +47,12 @@ Scenario 1: Entering a new contact
 
 ::
 
-    | Given that I have a new contact
-        | And I need to enter new contact info in my phone book,
-        ...
-    | When I choose Option 2, 
-    | Then I will get a prompt asking me to enter the contact information,
-      | And  I will add first name and the telephone number.
-        ...
+Given that I have a new contact
+ And I need to enter new contact info in my phone book,
+ When I choose Option 2, 
+ Then I will get a prompt asking me to enter the contact information,
+ And  I will add first name and the telephone number.
+
 
 Scenario 2: Remove a Phone Number
 ----------------------------------
