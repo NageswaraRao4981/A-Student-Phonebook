@@ -42,6 +42,9 @@ I also want to be able to search my phone and see all the contacts I put into it
 Acceptance Stories
 -----------------
 
+
+
+
 Scenario 1: Entering a new contact
 ----------------------------------
 
