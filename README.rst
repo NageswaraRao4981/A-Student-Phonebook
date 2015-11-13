@@ -60,13 +60,12 @@ Scenario 2: Remove a Phone Number
 
 ::
 
-   | Given that I don't need this number anymore,
-     |  And need to remove the contact info from my phone book,
-        ...
-    | When I choose Option 3, 
-     | Then the contact will be deleted,
-	  | And I get a statement saying my contact has been deleted.
-     ...
+ Given that I don't need this number anymore,
+ And need to remove the contact info from my phone book,
+ When I choose Option 3, 
+ Then the contact will be deleted,
+ And I get a statement saying my contact has been deleted.
+
 
 Scenario 3: Displaying all contacts
 -----------------------------------
@@ -78,6 +77,6 @@ Scenario 3: Displaying all contacts
  When I choose Option 1, 
  Then I will get a prompt displaying all contact information
  And I will be able to view all contact info
-    ...
+
 		
 		
