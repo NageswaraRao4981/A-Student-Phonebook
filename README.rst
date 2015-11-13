@@ -39,3 +39,68 @@ James' Phonebook
 As a future employee, I want to be able to reach people at anytime and also be available for them as well. 
 I also want to be able to search my phone and see all the contacts I put into it right away.
 
+Acceptance Stories
+-----------------
+
+Scenario 1: Entering a new contact
+----------------------------------
+
+::
+
+    | Given that I have a new contact
+        | And I need to enter new contact info in my phone book,
+        ...
+    | When I choose Option 2, 
+    | Then I will get a prompt asking me to enter the contact information,
+      | And  I will add first name and the telephone number.
+        ...
+
+Scenario 2: Remove a Phone Number
+----------------------------------
+
+::
+
+   | Given that I don't need this number anymore,
+     |  And need to remove the contact info from my phone book,
+        ...
+    | When I choose Option 3, 
+     | Then the contact will be deleted,
+	    | And I get a statement saying my contact has been deleted.
+     
+        ...
+
+Scenario 3: Displaying all contacts
+-----------------------------------
+
+::
+
+   | Given that I want to view all contacts,
+          | And I need to see who is in my phone book,
+        ...
+    | When I choose Option 1, 
+     | Then I will get a prompt displaying all contact information,
+	    | And I will be able to view all contact info
+
+     
+        ...
+		
+		
+ 
+ 
+ 
+ 
+ Scenario 4: Searching for an existing contact
+ ----------------------------------------------
+
+::
+
+   | Given that I have to search for an existing contact
+          | And I need to enter new contact info in my phone book,
+        ...
+    | When I choose Option 4, 
+     | Then I will get a prompt asking me to enter the contact first name,
+	    |  And my phone book will retrieve my contact.
+
+
+     
+        ...
