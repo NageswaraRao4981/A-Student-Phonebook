@@ -63,7 +63,7 @@ Scenario 2: Remove a Phone Number
 | And need to remove the contact info from my phone book,
 | When I choose Option 3, 
 | Then the contact will be deleted,
-| And I get a statement saying my contact has been deleted.
+| And I will get a statement saying my contact has been deleted.
 
 Scenario 3: Displaying all contacts
 -----------------------------------
