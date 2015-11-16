@@ -29,7 +29,7 @@ James calls the manufacturer but no one answers
 Value Proposition
 -----------------------
 The purpose of creating a module is to allow James to have access to his contacts. 
-The menu will have the person's name and number set up for James so he can add, edit, replace and delete them  with ease.
+The menu will have the person's name and number set up for James so he can add, display, remove, and search for them  with ease.
 
 User Stories
 ============
