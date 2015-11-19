@@ -89,8 +89,6 @@ Scenario 4: Searching for an existing contact
 
 Scenario 5: Quitting the Program
 -------------------------------------------------
-| Given that I have to search for an existing contact
-| And I need to enter new contact info in my phone book,
-| When I choose Option 4, 
-| Then I will get a prompt asking me to enter the contact first name,
-| And my phone book will retrieve my contact.
+| Given that I am done using the phonebook
+| When I choose Option 5, 
+| Then I will able to quit the program
