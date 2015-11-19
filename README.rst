@@ -89,6 +89,8 @@ Scenario 4: Searching for an existing contact
 
 Scenario 5: Quitting the Program
 ---------------------------------
+::
+
 | Given that I am done using the phonebook
 | When I choose Option 5, 
 | Then I will be able to quit the program
