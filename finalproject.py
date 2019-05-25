@@ -33,21 +33,21 @@ while menu_choice != 5:
         print()
     elif menu_choice == 2:
         print("Add Name and Number")
-        name = input("Name: ")
-        phone = input("Number: ")
+        name = raw_input("Name: ")
+        phone = int(input("Number: "))
         numbers[name] = phone
     elif menu_choice == 3:
         print("Remove Name and Number")
-        name = input("Name: ")
-        number = input("Number: ")
-        print = input("Number is now deleted")
+        name = raw_input("Name: ")
+        number = int(input("Number: "))
+        print("Number is now deleted")
         if name in numbers:
             del numbers[name]
         else:
             print(name, "was not found")
     elif menu_choice == 4:
         print("Lookup Number")
-        name = input("Name: ")
+        name = raw_input("Name: ")
         if name in numbers:
             print("The number is", numbers[name])
         else:
